@@ -1,0 +1,90 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 100%;
+	height: 1400px;
+	justify-content: center;
+}
+.box1{
+	height:180px;
+	width: 100%;
+	background-image: url(../img/首页.jpg);
+	background-size: cover;
+}
+.box11{
+	display: flex;
+	float: right;
+	height: 30px;
+	margin: 50px;
+}
+
+.box22{
+	width: 100%;
+	height: 37px;
+	background-color: mediumseagreen;
+	padding-left: 4%;
+	display: flex;
+	margin: o auto;
+}
+.box221{
+	padding-top: 5px;
+	text-align: center;
+	width: 150px;
+	height: 31px;
+	border: 1px solid gray;
+	color: white;
+	border-bottom: 0px;
+
+}
+.box221 a{
+	height: 100%;
+	font-size: 15px;
+	text-decoration: none;
+	color: ghostwhite;
+	display: block;
+}
+.box221:hover{
+	background-color: springgreen;
+}
+.box3{
+	height:100%;
+	width: 4%;
+}
+.box32{
+	height: 100%;
+	width: 95%;;
+}
+.box321{
+	width: 100%;
+	height: 50%;
+	align-items: center;
+	display: flex;
+}
+.box3211{
+	width: 33%;
+	height: 90%;
+	margin-top:10px;
+	background-color: mediumseagreen;
+}
+.Guitarimg{
+	display: flex;
+}
+.Guitarimg img{
+	width: 50%;
+}
+.position{
+	text-align: left;
+}
+.position a{
+	text-decoration: none;
+}
+.box4{
+	height: 80%;
+	width: 1300px;
+	align-items: center;
+	text-align: center;
+	display: flex;
+	margin: 0 auto;
+}
